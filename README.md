@@ -37,4 +37,4 @@ The classifiers utilized for this task are:
 To run the script, navigate to the directory containing the script and execute:
 
 ```bash
-python ClassifyArticles.py
+python python main.py
